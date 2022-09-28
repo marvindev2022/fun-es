@@ -1,2 +1,2 @@
-# fun-es
+# funcoes
 Primeira aula de funções
